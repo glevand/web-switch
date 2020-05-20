@@ -1,0 +1,14 @@
+# web-switch.sh config
+# https://github.com/glevand/web-switch
+#
+# Environment variables will override any config file values.
+#
+# switch_name:     The DNS resolvable hostname or the IP address of the switch.
+# switch_user:     The login user of the switch.
+# switch_passwd:   The login password of the switch.
+# connect_timeout: Connect timeout in seconds.
+
+switch_name="${switch_name:-**unknown**}"
+switch_user="${switch_user:-admin}"
+switch_passwd="${switch_passwd:-**unknown**}"
+connect_timeout="${connect_timeout:-10}"
