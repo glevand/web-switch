@@ -4,6 +4,8 @@ Web switch control for these products:
 
  * PI Manufacturing ETPW-622B
  * 5Gstore IP Switch UIS-622B
+ 
+![UIS-622B](notes/web-switch.jpeg)
 
 ## Usage
 
