@@ -1,4 +1,4 @@
-Files in this directory are product manuals downloaded from Internet sites and
+The files in this directory are product manuals downloaded from Internet sites and
 archived here for convinience.  They are not covered by the 
 [MIT Plus License](https://github.com/glevand/audx/blob/master/mit-plus-license.txt)
 of the [Web Switch Project](https://github.com/glevand/web-switch).  See each
