@@ -53,8 +53,9 @@ connect_timeout="${connect_timeout:-20}"
 
  * [PI Manufacturing ETPW-622B Programming Note](device-info/packet-request-via-http.pdf)
  * [PI Manufacturing ETPW-622B Setup Manual](device-info/etpw-622b-setup-manual.pdf)
- * [5gstore UIS-622B User Manual](device-info/IPSwitchManual_Nov_2019_rev3.pdf)
+ * [5gstore UIS-622B User Manual](device-info/IPSwitchManual_Aug_2020_rev1.pdf)
  * [Proxicast UIS-622B User Manual](device-info/proxicast-uis-622b-manual.pdf)
+ * [Proxicast ezOutlet3 Manual](MSNTN02-Controlling-the-ezOutlet3.pdf)
 
 If you find your web switch returns an auth error `/login.asp?error=1` when
 sent a set command, check that your switch has the latest firmware installed.
